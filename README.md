@@ -3,11 +3,11 @@
 # AWS Identity and Access Management (AWS IAM): 
 
 # IAM: Users & Groups
-• IAM = Identity and Access Management, Global service
-• Root account created by default, shouldn’t be used or shared
-• Users are people within your organization, and can be grouped
-• Groups only contain users, not other groups
-• Users don’t have to belong to a group, and user can belong to multiple groups
+* IAM = Identity and Access Management, Global service
+* Root account created by default, shouldn’t be used or shared
+* Users are people within your organization, and can be grouped
+* Groups only contain users, not other groups
+* Users don’t have to belong to a group, and user can belong to multiple groups
 ![image](https://github.com/prashanthgrebel/AWS/assets/92351464/f5f5569b-cade-44cd-9f35-7c8eccc2dc9c)
 
 
