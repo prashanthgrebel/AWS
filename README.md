@@ -104,3 +104,6 @@
 * Network card: speed of the card, Public IP address
 * Firewall rules: security group
 * Bootstrap script (configure at first launch): EC2 User Data
+
+  # Ec2 instance types:
+   https://aws.amazon.com/ec2/instance-types/
