@@ -107,3 +107,9 @@
 
   # Ec2 instance types:
    https://aws.amazon.com/ec2/instance-types/
+  * # EC2 Instance Types – General Purpose:
+     * Great for a diversity of workloads such as web servers or code repositories
+     * Balance between:
+		* Compute
+		* Memory
+		* Networking
