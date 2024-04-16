@@ -41,6 +41,9 @@
 	]
 }
 ```
+# IAM Policies inheritance
+![image](https://github.com/prashanthgrebel/AWS/assets/92351464/f7bc096c-068d-4b33-9f5d-98158a2efd1a)
+
 # IAM Roles for Services
 • Some AWS service will need to
 perform actions on your behalf
