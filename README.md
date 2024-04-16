@@ -47,11 +47,11 @@
 # IAM Policies Structure
 ![image](https://github.com/prashanthgrebel/AWS/assets/92351464/5a6e4c58-9564-4151-a0f1-43679d1d3339)
 
-* ==>  Consists of:-
+* #  ==>  Consists of:-
 * Version: policy language version, always include “2012-10-17”    
 * Id: an identifier for the policy (optional)
 * Statement: one or more individual statements (required)
-* ==>  Statements consists of:- 
+* # ==>  Statements consists of:- 
 * Sid: an identifier for the statement (optional)
 * Effect: whether the statement allows or denies access (Allow, Deny)
 * Principal: account/user/role to which this policy applied to
