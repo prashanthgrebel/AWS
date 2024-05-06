@@ -138,3 +138,10 @@ Good to know
 * If your application gives a “connection refused“ error, then it’s an application error or it’s not launched
 * All inbound traffic is blocked by default
 * All outbound traffic is authorised by default
+* 
+
+
+# Aws - On-prem DC networking Architecture: - 
+
+![image](https://github.com/prashanthgrebel/AWS/assets/92351464/44c5d6a8-b826-4acd-8c41-c40c70a6d4d7)
+
