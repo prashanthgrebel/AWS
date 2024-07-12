@@ -1,0 +1,5 @@
+ami_id = "ami-0fe630eb857a6ec83"
+#instance_type_value = "t2.micro"
+subnet_value = "subnet-00fd30c94d5aabe0b"
+vpc_id = "vpc-00ef8623dad03888a"
+aws_key = "ssh-virgina-key"
